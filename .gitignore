@@ -1,0 +1,12 @@
+*-backups/
+*.bak
+*.bck
+*-cache.lib
+fp-info-cache
+*.kicad_prl
+gerbers/
+*.gbr
+*.drl
+*.pos
+*-job.gbrjob
+.DS_Store
